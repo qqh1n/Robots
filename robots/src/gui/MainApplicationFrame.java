@@ -3,8 +3,10 @@ package gui;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 import java.awt.event.KeyEvent;
+import java.util.Locale;
 
 import javax.swing.*;
+import javax.swing.plaf.DesktopPaneUI;
 
 import log.Logger;
 
